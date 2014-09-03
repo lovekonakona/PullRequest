@@ -10,4 +10,8 @@ page.init = function() {
     //
 };
 
+page.uninit = function() {
+    //
+}
+
 page.init();
